@@ -1,0 +1,4 @@
+//Stanford facial recognition function
+Client ID: 15463576e58-ciygcidvwciywgicgwicbi.apps.googleusercontent.com
+Client secret: YrzzUWb-bYHbvh
+Creation date: Jul 13, 2018, 12:18:17 PM
